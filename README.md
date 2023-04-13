@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Scorp as a back-end developer.<br>🎯 Using .NET, Python, Django, AngularJs, Angular 2+, AWS, Jenkins, MySQL, PL/SQL<br>💬 Ask me about Python, .NET, Angular+2, PL/SQL
+🔭 I’m currently working at Scorp as a back-end developer.<br>🎯 Using .NET, Python, Django, AngularJs, Angular 2+, AWS, Jenkins, MySQL, PL/SQL<br>💬 
 
 
 ## 🌐 Socials:
