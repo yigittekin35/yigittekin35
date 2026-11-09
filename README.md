@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Scorp as a full-stack developer.<br>🎯 Using .NET, Python, Django, AWS, Jenkins, MySQL, PL/SQL, Vue, AngularJS, Angular 2+
+🔭 I’m currently working at Scorp as a full-stack developer.<br>🎯 Using C#, .NET, Python, Django, AWS, Jenkins, MySQL, PL/SQL, Vue, AngularJS and Angular 2+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yigit-atahan-tekin)
